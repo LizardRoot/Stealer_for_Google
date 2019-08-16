@@ -5,9 +5,9 @@ Using the "environment variables" we find the name of the drive and username. Ne
 
 Replace:
 
-- on line 100, the name is .bat, which deletes the main script.
+- on line 100, the name is "... .bat", which deletes the main script.
 
-- in stock 110 - the name of your ftp server.
+- in stock 110 - the name of your ftp server. In "... .bat" write the name of the script .py
 
 - in line 111 - login and password of the account.
 
